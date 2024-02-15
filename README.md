@@ -1,4 +1,4 @@
-**Banking Application REST API using Spring Boot and Spring Data JPA**
+__Banking Application REST API using Spring Boot and Spring Data JPA__
 
 **Description:**
 <br>
